@@ -1,0 +1,18 @@
+.jumbotron {
+  padding-top: 12rem;
+  padding-bottom: 3rem;
+  background-color: rgba(83, 207, 83, 0.589);
+}
+h2 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+footer {
+  text-align: center;
+  margin-top: 15px;
+  height: 45px;
+  padding-top: 10px;
+}
+#about {
+  padding-top: 2rem;
+}
